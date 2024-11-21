@@ -22,6 +22,9 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+    "fonts": {
+      "Ribeye": "assets/fonts/Ribeye-Regular.ttf"
+    },
     "plugins": [
       "expo-router",
       [
